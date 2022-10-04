@@ -1,5 +1,5 @@
-argument1 = int(input("Введите число:"))
-argument2 = int(input("Введите число:"))
+argument1 = int(input("Введите число 1:"))
+argument2 = int(input("Введите число 2:"))
 
 print(argument1,argument2, sep = " ")
 
